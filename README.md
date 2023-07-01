@@ -16,15 +16,24 @@ In this project we have given some feature which affect the energy consumption ,
 
 ### Deploying different models on the data and evaluating the best model for the dataset.
 
-1	 Lasso	
+1	 Lasso
+
 2	Ridge
+
 3	ElasticNet
-4	DecisionTreeRegressor	
+
+4	DecisionTreeRegressor
+
 5	KNeighborsRegressor
+
 6	SVR
-7	RandomForest	
-8	GradientBoostingRegresspr	
-9	XGBRegressor	
+
+7	RandomForest
+
+8	GradientBoostingRegressor
+
+9	XGBRegressor
+
 10	AdaBoostRegressor
 
 ### CONCLUSION
